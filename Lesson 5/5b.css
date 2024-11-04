@@ -1,0 +1,16 @@
+  p {
+    font-family: Arial;
+  }
+
+  .biggest-deal {
+    font-weight: bold;
+    font-size: 25px;
+    margin-bottom: 0;
+  }
+
+  .sales {
+    font-style: italic;
+    font-size: 18px;
+    color: red;
+    margin-top: 5px;
+  }
