@@ -1,0 +1,26 @@
+p {
+    font-family: Arial;
+    color: rgb(100, 98, 98);
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+
+.emailbar {
+    font-size: 16px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-style: solid;
+}
+
+.button {
+    font-size: 20px;
+    background-color: rgb(10, 102, 194);
+    color: white;
+    border: none;
+    border-radius: 30px;
+    padding: 10px 70px 10px 70px;
+    margin-top: 10px;
+    margin-left: 10px; 
+}
+
